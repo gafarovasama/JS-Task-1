@@ -1,5 +1,5 @@
 let a = 1;
-let b =4;
+let b = 4;
 
 [a, b] = [b, a]
 
